@@ -1,3 +1,7 @@
+## Car Price Prediction
+
+This project aims to predict car prices using machine learning techniques.
+
 ## Problem Description
 A Chinese automobile company aspires to enter the US market by setting up their
 manufacturing unit there and producing cars locally to give competition to their US and
@@ -9,6 +13,7 @@ be very different from the Chinese market. Essentially, the company wants to kno
 • How well those variables describe the price of a car
 Based on various market surveys, the consulting firm has gathered a large dataset of different
 types of cars across the American market.
+
 ## Business Goal
 You are required to model the price of cars with the available independent variables. It will be
 used by the management to understand how exactly the prices vary with the independent
